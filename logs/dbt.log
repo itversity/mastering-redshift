@@ -1,0 +1,26 @@
+
+
+============================== 2022-07-23 15:01:23.126168 | b3c4a8c0-eda9-47be-8b46-a35d9c06e087 ==============================
+15:01:23.126180 [info ] [MainThread]: Running with dbt=1.1.1
+15:01:23.126623 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': '/Users/itversity/.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'project_name': 'dbtrsdemo', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+15:01:23.126812 [debug] [MainThread]: Tracking: tracking
+15:01:23.140824 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x112996760>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x112996e50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x112996df0>]}
+15:01:23.143258 [debug] [MainThread]: Starter project path: /Users/itversity/Projects/Internal/bootcamp/itversity-material/mastering-redshift/mr-venv/lib/python3.9/site-packages/dbt/include/starter_project
+15:01:49.730464 [info ] [MainThread]: Profile dbtrsdemo written to /Users/itversity/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+15:01:49.731114 [info ] [MainThread]: 
+Your new dbt project "dbtrsdemo" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+15:01:49.731641 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x112996b50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x112996a90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1129964c0>]}
