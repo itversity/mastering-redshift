@@ -1,8 +1,6 @@
 # Mastering Redshift for Data Engineers
 
-Here are the comprehensive courses on Data Engineering using AWS Data Analytics on Udemy as well as our LMS. Our Guided Program is a comprehensive bundle which include all relevant courses related to Data Engineering using AWS Data Analytics.
-
-We also offer Bundle or Program for [Data Engineering using AWS Data Analytics](https://itversity.com/bundle/data-engineering-using-aws-analytics) on our LMS.
+You can find list of our comprehensive courses on Data Engineering using AWS Data Analytics on Udemy as well as our LMS in the below table. We also offer a [comprehensive bundle or program]((https://itversity.com/bundle/data-engineering-using-aws-analytics)) which include all relevant courses related to Data Engineering using AWS Data Analytics.
 
 |Course Title|Udemy Link|Guided Program Link|
 |---|---|---|
